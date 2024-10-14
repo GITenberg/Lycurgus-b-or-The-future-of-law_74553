@@ -1,0 +1,28 @@
+_repo: Lycurgus-b-or-The-future-of-law_74553
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Haynes, E. S. P.
+    gutenberg_agent_id: '57546'
+    url: http://www.gutenberg.org/2009/agents/57546
+description: ''
+gutenberg_issued: '2024-10-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74553'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=mdp.39015062378511
+pgterms:marc905: 20240531105521haynes
+pgterms:marc906: '1926'
+pgterms:marc907: US
+production_note: Produced by Donald Cummings and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aNew York :$bE. P. Dutton & Company, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Lycurgus : $b or The future of law'
+url: http://www.gutenberg.org/ebooks/74553
